@@ -1,16 +1,10 @@
-# chatwe
+# chatWe
 
-A new Flutter project.
+A chat application built with Flutter.
 
-## Getting Started
+## Result
 
-This project is a starting point for a Flutter application.
+<img width="1904" height="1028" alt="image" src="https://github.com/user-attachments/assets/28414167-0338-4ca5-bf4f-2376a601ade7" />
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
