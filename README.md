@@ -1,4 +1,4 @@
-# chatWe
+# ChatWe
 
 A chat application built with Flutter.
 
