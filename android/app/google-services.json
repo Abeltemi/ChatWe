@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "433589323090",
+    "project_id": "chatwe-4dec2",
+    "storage_bucket": "chatwe-4dec2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433589323090:android:96a74471b41df7cb64668b",
+        "android_client_info": {
+          "package_name": "co.temmyabel.chatwe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5-bSfq1IkrZm5nOPPFxyx25D4p3Cx36s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
